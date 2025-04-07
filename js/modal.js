@@ -26,14 +26,16 @@ const cases = [
         description: 'Vídeo para divulgação da consultoria contábil.',
         image: 'assets/img/background-warp3.jpg',
         modalImage: 'assets/img/vociem.jpg',
-        details: 'Vídeos para reels e stories da consultoria contábil VOCIEM.'
+        details: 'Vídeos para reels e stories da consultoria contábil VOCIEM.',
+        instagramLink: 'https://www.instagram.com/vociem/'
     },
     {
         title: 'Fique por dentro!',
         description: 'Trazendo novidades e tendências para você.',
         image: 'assets/img/background-warp4.jpg',
         modalImage: 'assets/img/vociem.jpg',
-        details: 'Mantenha-se atualizado com as últimas tendências e novidades do mercado. Nossa equipe está sempre atenta às mudanças e traz as informações mais relevantes para você.'
+        details: 'Mantenha-se atualizado com as últimas tendências e novidades do mercado. Nossa equipe está sempre atenta às mudanças e traz as informações mais relevantes para você.',
+        instagramLink: 'https://www.instagram.com/vociem/'
     },
     {
         title: 'Evoluções de Obra!',
