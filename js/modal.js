@@ -40,7 +40,8 @@ const cases = [
         description: 'Fotos e videos aereos da evolução de obra.',
         image: 'assets/img/background-warp5.jpg',
         modalImage: 'assets/img/acl.jpg',
-        details: 'Acompanhamento mensal, com imagens de drone da evolução de obra dos projetos da ACL Construtora.'
+        details: 'Acompanhamento mensal, com imagens de drone da evolução de obra dos projetos da ACL Construtora.',
+        instagramLink: 'https://www.instagram.com/aclconstrutorasp/'
     },
     {
         title: 'Ensaio Corporativo.',
